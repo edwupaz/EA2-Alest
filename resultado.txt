@@ -1,0 +1,4 @@
+50
+70
+Quantidade de nós visitados: 2
+Resultado: Achou a chave 70
