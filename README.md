@@ -14,27 +14,6 @@ Operações Presentes no Trabalho:
 
 ---
 
-📁 Estrutura de Arquivos:
-Para garantir a clareza e a organização, o projeto segue a estrutura de pastas padrão abaixo. Os arquivos de saída são gerados na pasta saida/.
-
-/
-├── .gitignore
-├── README.md
-├── entrada.txt <-- Arquivo de entrada com os valores inteiros
-├── src/
-│ └── estruturas/
-│ ├── App.java <-- Classe principal que executa a aplicação
-│ └── ArvoreBinariaPesquisa.java
-└── saida/ <-- Pasta onde os arquivos de saída são gerados
-├── central.txt <-- Caminhamento central 
-├── largura.txt <-- Caminhamento em largura 
-├── posordem.txt <-- Caminhamento pós-ordem
-├── preordem.txt <-- Caminhamento pré-ordem
-└── resultado.txt <-- Resultado da busca pela chave
-
----
----
-
 ## ⚙️ Funcionalidades do Projeto:
 
 ### 1. Leitura e Construção da Árvore:
