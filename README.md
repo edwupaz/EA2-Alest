@@ -17,8 +17,8 @@ Operações Presentes no Trabalho:
 ### 1. Leitura e Construção da Árvore:
 
 - Os dados são lidos a partir do arquivo "entrada.txt".
-- Todos os valores, **exceto o último**, são inseridos na árvore binária na ordem em que aparecem.
-- O **último valor** é tratado como a **chave a ser buscada** na árvore.
+- Todos os valores, exceto o último, são inseridos na árvore binária na ordem em que aparecem.
+- O último valor é tratado como a chave a ser buscada na árvore.
 
 ### 2. Caminhamentos na Árvore:
 
@@ -33,8 +33,8 @@ Cada arquivo contém as chaves visitadas, uma por linha.
 
 ### 3. Pesquisa de Chave:
 
-- O programa realiza a **busca iterativa** da chave especificada na última linha do `entrada.txt`.
+- O programa realiza a busca iterativa da chave especificada na última linha do "entrada.txt".
 - Gera o arquivo "resultado.txt" contendo:
 - Todas as chaves dos nós visitados durante a busca.
-- Na última linha, o **número total de nós visitados**.
-- Uma mensagem final indicando se a chave foi **"Achou"** ou **"Não Achou"**.
+- Na última linha, o número total de nós visitados.
+- Uma mensagem final indicando se a chave foi "Achou" ou "Não Achou".
