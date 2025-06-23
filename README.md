@@ -12,8 +12,6 @@ Operações Presentes no Trabalho:
 - Busca de uma chave específica definida como a última linha do arquivo.
 - Geração de arquivos de texto contendo os resultados de cada operação.
 
----
-
 ## Funcionalidades do Projeto:
 
 ### 1. Leitura e Construção da Árvore:
